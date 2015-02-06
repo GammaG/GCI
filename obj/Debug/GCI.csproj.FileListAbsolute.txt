@@ -1,0 +1,9 @@
+C:\Uni\Visual Studio\GCI\bin\Debug\GCI.exe.config
+C:\Uni\Visual Studio\GCI\bin\Debug\GCI.exe
+C:\Uni\Visual Studio\GCI\bin\Debug\GCI.pdb
+C:\Uni\Visual Studio\GCI\obj\Debug\GCI.csprojResolveAssemblyReference.cache
+C:\Uni\Visual Studio\GCI\obj\Debug\GCI.Form1.resources
+C:\Uni\Visual Studio\GCI\obj\Debug\GCI.Properties.Resources.resources
+C:\Uni\Visual Studio\GCI\obj\Debug\GCI.csproj.GenerateResource.Cache
+C:\Uni\Visual Studio\GCI\obj\Debug\GCI.exe
+C:\Uni\Visual Studio\GCI\obj\Debug\GCI.pdb
